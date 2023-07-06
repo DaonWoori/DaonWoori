@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20MIJEONG's%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
 
-### Projects
+### Projects💻
 - 사무용품 이미지 AI 개선 프로젝트 | [🔗github]()
 
-### Skills
+### Skills🛠️
 - python
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> 
@@ -21,7 +21,7 @@
 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 
-### GitHub Status
+### GitHub Status🏆
 ![MIJEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaonWoori&show_icons=true&theme=transparent&count_private=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaonWoori&count_bg=%2315678D&title_bg=%230C0C0C&icon=github.svg&icon_color=%23FFFCFC&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
