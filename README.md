@@ -2,7 +2,7 @@
 
 
 ### Projects💻
-- 사무용품 이미지 AI 개선 프로젝트 | [🔗github]()
+- 사무용품 이미지 AI 개선 프로젝트 | [🔗github](https://github.com/DaonWoori/OptimizedOfficeAI)
 
 ### Skills🛠️
 - python
