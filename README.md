@@ -22,15 +22,16 @@
 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 
-### Contact📲 
-<a href="https://up-in-the-air.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="mailto:alwjd7858@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alwjd7858@gmail.com"/></a>
-
 ### GitHub Status🏆
 ![MIJEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaonWoori&show_icons=true&theme=transparent&count_private=true)
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaonWoori&count_bg=%2315678D&title_bg=%230C0C0C&icon=github.svg&icon_color=%23FFFCFC&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 
+### Contact📲 
+<a href="https://up-in-the-air.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="mailto:alwjd7858@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alwjd7858@gmail.com"/></a>
 
 <!--
 **DaonWoori/DaonWoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
