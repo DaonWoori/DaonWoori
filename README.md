@@ -26,7 +26,8 @@
 ![MIJEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaonWoori&show_icons=true&theme=transparent&count_private=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaonWoori&count_bg=%2315678D&title_bg=%230C0C0C&icon=github.svg&icon_color=%23FFFCFC&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
-
+<a href="https://up-in-the-air.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="mailto:alwjd7858@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:alwjd7858@gmail.com"/></a>
 
 
 <!--
